@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "750904299388",
+    "project_id": "fetchpost-b7957",
+    "storage_bucket": "fetchpost-b7957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750904299388:android:7a0116e947359e236b9ef9",
+        "android_client_info": {
+          "package_name": "com.fetchpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750904299388-stpc3a0sq3cskc69q97208p0ejmfsgcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLUQSivWjLlmO3Fn4vpzVQbhfUE-E8jYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750904299388-stpc3a0sq3cskc69q97208p0ejmfsgcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "750904299388-tde09bi4k9bi4bafuavmkkutjjg2fsk3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FetchPost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
